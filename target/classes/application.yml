@@ -1,0 +1,4 @@
+security:
+  sessions: never
+server:
+  port: 8081

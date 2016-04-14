@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: Tod
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: mehrdad
+Implementation-Vendor-Id: org.tod
+Build-Jdk: 1.8.0_45-internal
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
